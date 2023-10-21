@@ -133,7 +133,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="@drawable/imagen_login"
-            app:srcCompat="@drawable/doctor" />
+            app:srcCompat="@drawable/doctor"
+            android:layout_gravity="end"/>
 
     </LinearLayout>
 
